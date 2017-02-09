@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=imageName
+comment0.target=void\ setCarImage(java.lang.String)
+comment1.params=
+comment1.target=void\ ControlAdvanced()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ CoinCheck()
+comment4.params=
+comment4.target=void\ ObstacleCollideCheck()
+numComments=5
